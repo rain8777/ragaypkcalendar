@@ -149,7 +149,7 @@ export default function Home() {
             <span className="brand-icon">🏥</span>
             <div>
               <div className="brand-title">Ragay PK Team</div>
-              <div className="brand-sub">Purok Kalusugan Calendar</div>
+              <div className="brand-sub">PuroKalusugan Calendar</div>
             </div>
           </div>
 
